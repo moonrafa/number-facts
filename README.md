@@ -1,6 +1,6 @@
 # Number facts
 
-- type any number and get a fact about it
+- Type any number and get a fact about it
 
 ## Tools
 
